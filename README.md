@@ -1,6 +1,6 @@
 This MINER is a powerfull tool that has a nice GUI(Graphical User Interface) - a nice interface with nice buttons, fully responsive, theme changer and way more!
 The tool is secured and is easy to operate!
-To withraw you simply find and press the withdraw button and the press send to send the amount you want to othe bitcoin addres(on your phone so you can withraw the money in your credit card, PayPal)
+To withraw you simply find and press the withdraw button and the press send to send the amount you want to send to other bitcoin addres(on your phone so you can withraw the money in your credit card, PayPal)
 
 SoftWare:
 1) The Software dose not come with ANY KIND of WARRANTY!
