@@ -3,7 +3,7 @@ The tool is secured and is easy to operate!
 To withraw you siply find and press the withdraw button and the press send to send the amount you want to othe bitcoin addres(on your phone so you can withraw the money in your credit card, PayPal)
 
 SoftWare:
-1) The Software dose note come with ANY KIND of WARRANTY!
+1) The Software dose not come with ANY KIND of WARRANTY!
 2) SoftWare should be treated as how is in License!
 3) The SoftWare is only supported by Windows systems!
 
