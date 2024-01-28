@@ -1,4 +1,4 @@
-This MINER is a powerfull tool that has a nice GUI(Graphical User Interface) - a nice interface with nice buttons, fully responsiv, theme changer and way more!
+This MINER is a powerfull tool that has a nice GUI(Graphical User Interface) - a nice interface with nice buttons, fully responsive, theme changer and way more!
 The tool is secured and is easy to operate!
 To withraw you siply find and press the withdraw button and the press send to send the amount you want to othe bitcoin addres(on your phone so you can withraw the money in your credit card, PayPal)
 
