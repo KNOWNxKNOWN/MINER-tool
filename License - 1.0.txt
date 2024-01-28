@@ -15,6 +15,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 6. Users should exercise awareness and caution when using the Software, understanding its capabilities and limitations.
 
+7. The developer will not respond for anything you did by executing this SoftWare!
+
 THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND.
 
 For inquiries about this license, please contact [https://t.me/evilanttools - owner].
