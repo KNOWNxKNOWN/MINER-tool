@@ -1,0 +1,20 @@
+Software License Version - 1.0
+SoftWare Version - 2.0
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software, to use, copy, modify, and distribute the Software only for good purposes, provided that the following conditions are met:
+
+1. The Software shall not be used for deobfuscating or reverse engineering.
+
+2. The Software shall not be shared or distributed for malicious purposes.
+
+3. The use, modification, or distribution of the Software shall be solely for positive and constructive purposes that benefit individuals, communities, or society at large.
+
+4. Users of the Software shall respect and support the developer by providing appropriate attribution and acknowledgment.
+
+5. The Software shall not be modified in a way that impacts its correct functioning. Any modification could lead to software bugs!.
+
+6. Users should exercise awareness and caution when using the Software, understanding its capabilities and limitations.
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND.
+
+For inquiries about this license, please contact [https://t.me/evilanttools - owner].
